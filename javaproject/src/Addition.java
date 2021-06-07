@@ -3,11 +3,14 @@ public class Addition {
         int a=10;
         int b=10;
         int c=a+b;
-        if(c>20){
-        System.out.println(c);
+        if(c<20){
+        System.out.println("c<20");
+        }
+        else if (c>20){
+            System.out.println("c>20");
         }
         else
-            System.out.println("no output");
+            System.out.println("c=20");
     }
 
 }
