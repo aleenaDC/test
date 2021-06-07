@@ -9,8 +9,10 @@ public class Addition {
         else if (c>20){
             System.out.println("c>20");
         }
+        else if (c == 20){
+            System.out.println("c=20");}
         else
-            System.out.println("c=20");
+        System.out.println("no output");
     }
 
 }
