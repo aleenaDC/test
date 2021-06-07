@@ -1,2 +1,2 @@
 # test
-first repo created
+first repo created to study git commands
