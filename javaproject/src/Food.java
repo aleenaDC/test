@@ -1,9 +1,12 @@
+import java.util.Scanner;
+
 public class Food {
     public static void main(String[] args) {
-        String f1="pizza";
-        String f2="burger";
-        String f3="icecream";
-        String f4="pasta marinara" ;
+
+        int a=10;
+        int b=20;
+       int c=a+b;
+       System.out.println(c);
     }
 
 }
