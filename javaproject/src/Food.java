@@ -5,7 +5,9 @@ public class Food {
 
         int a=10;
         int b=20;
-       int c=a+b;
+        int c=30;
+        int d=40;
+       int c=a+b+c+d;
        System.out.println(c);
     }
 
